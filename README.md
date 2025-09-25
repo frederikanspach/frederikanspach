@@ -10,7 +10,7 @@ I'm currently attending a bootcamp to help me re-enter IT as a front end develop
 ## 📫 How to reach me:
 - Email: frederik@frederik-anspach.de
 - Website: https://frederik-anspach.de  
-- LinkedIn: https://www.instagram.com/stevenrudko/
+- LinkedIn: https://www.linkedin.com/in/frederik-anspach/
 
 ## 🌱 I’m currently learning ...
 I am currently learning ja.
