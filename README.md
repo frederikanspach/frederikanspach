@@ -12,21 +12,29 @@ Nach einer längeren Station außerhalb der aktiven IT-Entwicklung kehre ich nun
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Tooling** | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Grundlagen** | REST-APIs, Responsive Design, Linux/Bash-Grundlagen |
+| **Konzept** | REST-APIs (Fetch), Responsive Design, DOM-Manipulation, Linux/Bash-Automation |
 
 ---
 
-## 🚀 Aktuelle Lern-Projekte
+## 🚀 Highlight-Projekte (Lernreise)
 
 ### [🎭 Witze-App (Joke Generator)](https://github.com/frederikanspach/witze-app)
-Mein erstes Projekt zur Vertiefung von asynchroner Logik und modernem CSS.
-* **Was ich hier lerne:** Den Umgang mit der Fetch API, Vite als Build-Tool und die Strukturierung mit SCSS.
-* **Automatisierung:** Einbindung kleiner Bash-Skripte zur Bildoptimierung (WebP) – hier hilft mir mein technisches Hintergrundwissen.
+Fokus auf asynchrone Logik, modernes Build-Tooling und Dark-Mode-Support.
+* **Technik:** Vite, SCSS, Async JS, Bash-Automation.
+* **Besonderheit:** Automatisierte Asset-Pipeline für optimierte WebP-Grafiken.
 * **Links:** [Live Demo](https://frederikanspach.github.io/witze-app/) | [Dokumentation](https://github.com/frederikanspach/witze-app#readme)
 
-### [📝 Notiz-App](https://github.com/frederikanspach/notiz-app)
-Übung zum State-Management und der Arbeit mit dem LocalStorage.
-* **Status:** In Arbeit – hier fokussiere ich mich auf saubere JavaScript-Module.
+### [📝 Notiz-App (Persistent Storage)](https://github.com/frederikanspach/notiz-app)
+Verwaltung von Notizen mit Fokus auf State-Management und Daten-Persistenz.
+* **Technik:** Vanilla JS (ES6 Modules), LocalStorage API, CSS-Glassmorphism.
+* **Besonderheit:** Saubere Trennung von UI-Logik und Datenspeicherung.
+* **Links:** [Live Demo](https://frederikanspach.github.io/notiz-app/) | [Dokumentation](https://github.com/frederikanspach/notiz-app#readme)
+
+### [🧠 Quiz-App (Interactive Learning)](https://github.com/frederikanspach/quiz-app)
+Interaktives Quiz-System mit komplexer Zufallslogik und Score-Tracking.
+* **Technik:** Fetch API (JSON-Import), Fisher-Yates Shuffle Algorithmus.
+* **Besonderheit:** Dynamisches Mischen von Fragen und Antworten bei jedem Durchgang.
+* **Links:** [Live Demo](https://frederikanspach.github.io/quiz-app/) | [Dokumentation](https://github.com/frederikanspach/quiz-app#readme)
 
 ---
 
